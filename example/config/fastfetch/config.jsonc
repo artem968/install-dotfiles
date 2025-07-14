@@ -1,0 +1,44 @@
+{
+    "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/dev/doc/json_schema.json",
+    // Global color settings for keys and title
+    "keyColor": "blue",
+    "titleColor": "blue",
+
+    "logo": {
+        "type": "auto",
+        "color": {
+            "1": "blue",
+            "2": "blue",
+            "3": "blue",
+            "4": "blue",
+            "5": "blue",
+            "6": "blue",
+            "7": "blue",
+            "8": "blue",
+            "9": "blue"
+        }
+    },
+    "modules": [
+        "title",
+        "os",
+        "host",
+        "kernel",
+        "uptime",
+        "packages",
+        "shell",
+        // The 'display' module itself is for showing display info,
+        // not for global display settings.
+        "display",
+        "de",
+        "wm",
+        "theme",
+        "icons",
+        "font",
+        "cpu",
+        "gpu",
+        "memory",
+        "disk",
+        "battery",
+        "locale"
+    ]
+}

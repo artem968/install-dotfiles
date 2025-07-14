@@ -1,0 +1,99 @@
+.
+├── LICENSE
+├── config
+│   ├── cava
+│   │   ├── config
+│   │   └── shaders
+│   │       ├── bar_spectrum.frag
+│   │       ├── northern_lights.frag
+│   │       ├── pass_through.vert
+│   │       ├── spectrogram.frag
+│   │       └── winamp_line_style_spectrum.frag
+│   ├── fastfetch
+│   │   └── config.jsonc
+│   ├── fish
+│   │   ├── config.fish
+│   │   ├── fish_variables
+│   │   ├── functions
+│   │   │   └── fish_prompt.fish
+│   │   └── themes
+│   │       ├── tokyonight_night.html
+│   │       └── tokyonight_night.theme
+│   ├── fuzzel
+│   │   └── fuzzel.ini
+│   ├── ghostty
+│   │   └── config
+│   ├── go
+│   │   └── telemetry
+│   │       └── local
+│   │           ├── asm@go1.24.4-go1.24.4-linux-amd64-2025-07-06.v1.count
+│   │           ├── cgo@go1.24.4-go1.24.4-linux-amd64-2025-07-06.v1.count
+│   │           ├── compile@go1.24.4-go1.24.4-linux-amd64-2025-07-06.v1.count
+│   │           ├── go@go1.24.4-go1.24.4-linux-amd64-2025-07-06.v1.count
+│   │           ├── link@go1.24.4-go1.24.4-linux-amd64-2025-07-06.v1.count
+│   │           ├── upload.token
+│   │           └── weekends
+│   ├── gtk-3.0
+│   │   ├── gtk.css
+│   │   └── settings.ini
+│   ├── gtk-4.0
+│   │   ├── gtk.css
+│   │   └── settings.ini
+│   ├── hypr
+│   │   ├── Fonts
+│   │   │   ├── JetBrains
+│   │   │   │   └── JetBrains Mono Nerd.ttf
+│   │   │   └── SF Pro Display
+│   │   │       ├── SF Pro Display Bold.otf
+│   │   │       └── SF Pro Display Regular.otf
+│   │   ├── Scripts
+│   │   │   └── songdetail.sh
+│   │   ├── hyprland.conf
+│   │   ├── hyprlock.conf
+│   │   ├── hyprlock.png
+│   │   ├── hyprpaper.conf
+│   │   ├── kuru-kuru.png
+│   │   ├── monitors.conf
+│   │   ├── sans.jpg
+│   │   ├── scheme
+│   │   │   └── current.conf
+│   │   ├── wallpaper.png
+│   │   └── workspaces.conf
+│   ├── mimeapps.list
+│   ├── nvim
+│   │   ├── LICENSE
+│   │   ├── README.md
+│   │   ├── init.lua
+│   │   ├── lazy-lock.json
+│   │   ├── lazyvim.json
+│   │   ├── lua
+│   │   │   ├── config
+│   │   │   │   ├── autocmds.lua
+│   │   │   │   ├── keymaps.lua
+│   │   │   │   ├── lazy.lua
+│   │   │   │   └── options.lua
+│   │   │   └── plugins
+│   │   │       ├── example.lua
+│   │   │       └── init.lua
+│   │   └── stylua.toml
+│   ├── qt5ct
+│   │   ├── colors
+│   │   │   └── caelestia.conf
+│   │   └── qt5ct.conf
+│   ├── qt6ct
+│   │   ├── colors
+│   │   │   └── caelestia.conf
+│   │   └── qt6ct.conf
+│   ├── starship.toml
+│   ├── user-dirs.dirs
+│   ├── user-dirs.locale
+│   └── waybar
+│       ├── config
+│       ├── platform_profile.sh
+│       └── style.css
+├── install.sh
+├── ly-config.ini
+├── packages.conf
+└── treeview
+
+30 directories, 67 files
