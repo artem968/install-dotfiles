@@ -2,7 +2,7 @@
 
  - Text based interface with Gum
  - Simple packages for any dotfiles repository using packages.conf even including AUR packages
- - Creating backups for the .config folder using rsync
+ - Creating backups of the .config folder using rsync
  - Automatic detection and installation of an AUR helper your choice
  
  Example of usage
