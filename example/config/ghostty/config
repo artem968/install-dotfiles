@@ -1,7 +1,0 @@
-theme = Oxocarbon
-
-confirm-close-surface = false
-
-command = /usr/bin/fish --login --interactive
-
-font-family = FiraCode Nerd Font
